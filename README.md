@@ -1,14 +1,8 @@
 # Sobre mim
-
-##
-
-- 👋 Hi, I’m @Anaketlin
-- 👀 I’m interested in ...
+- 👋 Olá, meu nome é @Anaketlin
+- 👍 Meu email de contato é paula.silva05@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Anaketlin/Anaketlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
